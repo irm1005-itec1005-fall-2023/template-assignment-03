@@ -14,8 +14,8 @@
 
 1. Initialise an array and complete the five functions in the `index.js` file.
 2. Run the automated tests and view results in the console.
-2. Commit your code to your assignment repository in GitHub.
-3. Turn on GitHub Pages in your repository to host your web page online.
+3. Commit your code to your assignment repository in GitHub.
+4. Turn on GitHub Pages in your repository to host your web page online.
 
 ## Description
 
