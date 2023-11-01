@@ -55,7 +55,7 @@ Create and host a web page that meets the following requirements:
 
 ## Grading rubric
 
-The creation and posting of this web page is worth 15% of your final grade and marked out of 100.
+The JavaScript code that you are writing in this assignment 03 is worth 15% of your final grade and marked out of 100.
 
 | Criteria                | Total&nbsp;Marks | How we define excellence                                                                                                                                                                                                                                                                                                              |
 | ----------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
