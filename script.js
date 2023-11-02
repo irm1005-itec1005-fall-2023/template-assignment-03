@@ -36,7 +36,9 @@
 //
 // NOTE:
 //
-// You must use the following object literal structure when creating new todo items
+// - You must use the following object literal structure when creating new todo items
+// - The ID (id) of each todo item must be unique (you can use the length of the array as the ID or generate a random number)
+//
 // {
 //   id: 0,
 //   text: "This is a todo item",
