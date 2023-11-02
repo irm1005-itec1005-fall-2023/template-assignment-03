@@ -50,6 +50,8 @@
 // Function to add a todo to the list
 // It should accept a string as a parameter (text of the todo item)
 // and it should add a new todo item to the todoItems array
+// The todo item should have the structure shown above
+// It's really important that you have a unique ID for each todo item that you push onto the array
 // the function does not need to return anything
 function addToDoItem(text) {
   // Implement the logic to add a task here
